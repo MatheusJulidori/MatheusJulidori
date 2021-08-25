@@ -4,8 +4,8 @@
   Web Developer at <a href="http://www.inatel.br">INATEL</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-MatheusJulidori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MatheusJulidori/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/matheusjulidori?label=follow&style=social)](https://github.com/MatheusJulidori)
+[![Linkedin: MatheusJulidori](https://img.shields.io/badge/-MatheusJulidori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MatheusJulidori/)](https://www.linkedin.com/in/MatheusJulidori/)
+[![GitHub MatheusJulidori](https://img.shields.io/github/followers/matheusjulidori?label=follow&style=social)](https://github.com/MatheusJulidori)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

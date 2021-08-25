@@ -29,15 +29,14 @@ const matheus = {
 }
 ```
 <!--START_SECTION:waka-->
-<br>
 <h2>My stats</h2>
-<br>
+
 <h3>Most used languages</h3>
-<br>
-<img><embed src="https://wakatime.com/share/@27e12d56-799f-46de-a472-20682f9c6343/d974b37c-ec03-434a-80b2-652a783bd47b.svg"></embed></img>
+<br/>
+<img src="https://wakatime.com/share/@27e12d56-799f-46de-a472-20682f9c6343/2db336c0-3865-4c27-996e-878eb0186644.svg" height="400"/>
 <br><br>
-<h3>Time spent</h3>
-<img><embed src="https://wakatime.com/share/@27e12d56-799f-46de-a472-20682f9c6343/c2b5ad06-a213-4796-a017-351cf84c382e.svg"></embed></img>
+<h3>Time spent coding</h3>
+<img src="https://wakatime.com/share/@27e12d56-799f-46de-a472-20682f9c6343/5a93ae91-e078-4c9a-b2db-1aae3143e48a.svg" height="400"/>
 <br>
 
 <!--END_SECTION:waka-->

@@ -28,15 +28,8 @@ const matheus = {
     currentFocus: "JS Backend Development",
 }
 ```
-<!--START_SECTION:waka-->
 <h2>My stats</h2>
 
-<h3>Most used languages</h3>
-<br/>
-<img src="https://wakatime.com/share/@27e12d56-799f-46de-a472-20682f9c6343/2db336c0-3865-4c27-996e-878eb0186644.svg" height="400"/>
-<br><br>
-<h3>Time spent coding</h3>
-<img src="https://wakatime.com/share/@27e12d56-799f-46de-a472-20682f9c6343/5a93ae91-e078-4c9a-b2db-1aae3143e48a.png" height="400"/>
-<br>
+<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->

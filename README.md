@@ -76,17 +76,16 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     50 mins             ██████████████████████░░░   89.16% 
-CSS                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.84%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Divinopolitana           56 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,5 +102,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2022
+ Last Updated on 06/01/2022
 <!--END_SECTION:waka-->

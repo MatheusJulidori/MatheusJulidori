@@ -23,7 +23,7 @@ const matheus = {
         frontEnd: {
             techs: ["React", "Ionic"]
         },
-        databases: ["MySql", "sqlite","PostgreSQL"],
+        databases: ["MySql", "MongoDB","PostgreSQL"],
     },
     currentFocus: "JS Backend Development",
 }

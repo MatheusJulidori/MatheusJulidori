@@ -1,7 +1,8 @@
 <h2> Hi, I'm <a href="https://matheusjulidori.github.io" target="_blank">Matheus Julidori!</a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230" height="auto">
 <p><em>Studying Software Enginner at <a href="http://www.inatel.br" target="_blank">INATEL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-  Fullstack Web Developer at <a href="http://www.cp2ejr.com.br" target="_blank">CP2eJr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Fullstack Web Developer at <a href="http://www.cp2ejr.com.br" target="_blank">CP2eJr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+  Blockchain Developer at <a href="https://www.electroneum.com" target="_blank">Electroneum</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: MatheusJulidori](https://img.shields.io/badge/-MatheusJulidori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MatheusJulidori/)](https://www.linkedin.com/in/MatheusJulidori/)
@@ -13,19 +14,22 @@
 ```javascript
 const matheus = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, Python, Java, C++, C],
-  askMeAbout: ["web dev", "tech", "app dev", "games"],
+  code: [Javascript, HTML, CSS, Python, Java, C++, Elixir,Golang],
+  askMeAbout: ["web dev", "tech", "app dev", "games","blockchain"],
   technologies: {
         backEnd: {
             js: ["Node", "Express"],
             python: ["Django"]
         },
         frontEnd: {
-            techs: ["React", "Ionic"]
+            techs: ["React", "SCSS"]
         },
-        databases: ["MySql", "MongoDB","PostgreSQL"],
-    },
-    currentFocus: "JS Backend Development",
+        databases: ["MySql", "MongoDB","PostgreSQL","Neo4J"],
+   },
+   currentFocus: {
+        web: "JS Backend Development",
+        blockchain: "Ethereum based blockchain"
+   }
 }
 ```
 <h2>My stats</h2>

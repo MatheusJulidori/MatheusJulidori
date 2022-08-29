@@ -35,7 +35,7 @@ const matheus = {
 <h2>My stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -82,16 +82,16 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               37 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Madereira                37 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    37 mins             █████████████████████████   100.0%
 
 ```
 
@@ -108,5 +108,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2022 01:23:31 UTC
+ Last Updated on 29/08/2022 01:29:11 UTC
 <!--END_SECTION:waka-->

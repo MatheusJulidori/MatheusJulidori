@@ -35,7 +35,7 @@ const matheus = {
 <h2>My stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -113,5 +113,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2023 01:06:20 UTC
+ Last Updated on 13/01/2023 01:10:59 UTC
 <!--END_SECTION:waka-->

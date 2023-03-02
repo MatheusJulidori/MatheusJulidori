@@ -35,7 +35,7 @@ const matheus = {
 <h2>My stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,5 +105,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2023 01:08:16 UTC
+ Last Updated on 02/03/2023 01:06:54 UTC
 <!--END_SECTION:waka-->

@@ -35,7 +35,7 @@ const matheus = {
 <h2>My stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,16 +80,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               28 mins             █████████████████████████   100.00 % 
+JavaScript               57 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Madereira                28 mins             █████████████████████████   100.00 % 
+Madereira                57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.00 % 
+Linux                    57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,5 +105,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2023 01:06:54 UTC
+ Last Updated on 03/03/2023 02:51:40 UTC
 <!--END_SECTION:waka-->

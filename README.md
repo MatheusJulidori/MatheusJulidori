@@ -14,21 +14,19 @@
 ```javascript
 const matheus = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, Python, Java, C++, Elixir,Golang],
+  code: [Javascript, HTML, CSS, Python, Java, C++, Elixir],
   askMeAbout: ["web dev", "tech", "app dev", "games","blockchain"],
   technologies: {
         backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django"]
+            js: ["Node", "Express"]
         },
         frontEnd: {
-            techs: ["React", "SCSS"]
+            techs: ["React"]
         },
         databases: ["MySql", "MongoDB","PostgreSQL","Neo4J"],
    },
    currentFocus: {
-        web: "JS Backend Development",
-        blockchain: "Ethereum based blockchain"
+        web: "JS Backend Development"
    }
 }
 ```
@@ -47,7 +45,7 @@ const matheus = {
  > 
 > 🏆 5 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> ✔️ Open to job offers
  > 
 > 📜 41 Public Repositories 
  > 

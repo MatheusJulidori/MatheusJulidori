@@ -32,7 +32,7 @@ const matheus = {
 <h2>My stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,19 +77,16 @@ Sunday                   138 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               24 mins             ████████████░░░░░░░░░░░░░   49.94 % 
-HTML                     21 mins             ███████████░░░░░░░░░░░░░░   42.89 % 
-CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sitecp2_2023             49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,5 +102,5 @@ Prolog                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2023 01:05:08 UTC
+ Last Updated on 26/07/2023 01:01:34 UTC
 <!--END_SECTION:waka-->

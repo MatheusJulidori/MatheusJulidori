@@ -13,8 +13,8 @@
 ```javascript
 const matheus = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, Python, Java, C++, Elixir],
-  askMeAbout: ["web dev", "tech", "app dev", "games","blockchain"],
+  code: [Javascript, Dart, HTML, CSS, Python, Java, C++],
+  askMeAbout: ["web dev", "tech", "app dev", "games"],
   technologies: {
         backEnd: {
             js: ["Node", "Express"]
@@ -22,10 +22,13 @@ const matheus = {
         frontEnd: {
             techs: ["React"]
         },
-        databases: ["MySql", "MongoDB","PostgreSQL","Neo4J"],
+        mobile: {
+            js: ["Flitter"]
+        },
+        databases: ["MySql", "MongoDB","PostgreSQL","MariaDB"],
    },
    currentFocus: {
-        web: "JS Backend Development"
+        web: "Fullstack Flutter Development"
    }
 }
 ```

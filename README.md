@@ -1,7 +1,7 @@
 <h2> Hi, I'm <a href="https://matheusjulidori.github.io" target="_blank">Matheus Julidori!</a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230" height="auto">
 <p><em>Studying Software Enginner at <a href="http://www.inatel.br" target="_blank">INATEL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-  Fullstack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Fullstack Web Developer | Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: MatheusJulidori](https://img.shields.io/badge/-MatheusJulidori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MatheusJulidori/)](https://www.linkedin.com/in/MatheusJulidori/)
@@ -17,18 +17,19 @@ const matheus = {
   askMeAbout: ["web dev", "tech", "app dev", "games"],
   technologies: {
         backEnd: {
-            js: ["Node", "Express"]
+            js\ts: ["Node", "Express", "NestJS"]
         },
         frontEnd: {
-            techs: ["React"]
+            techs: ["React", "VueJS"]
         },
         mobile: {
-            js: ["Flitter"]
+            frameworks: ["Flutter"]
         },
         databases: ["MySql", "MongoDB","PostgreSQL","MariaDB"],
    },
    currentFocus: {
-        web: "Fullstack Flutter Development"
+        web: "Fullstack"
+        mobile: "Flutter"
    }
 }
 ```

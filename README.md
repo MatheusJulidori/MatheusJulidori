@@ -36,7 +36,7 @@ const matheus = {
 <h2>My stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -113,5 +113,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2024 00:55:22 UTC
+ Last Updated on 16/01/2024 00:53:10 UTC
 <!--END_SECTION:waka-->

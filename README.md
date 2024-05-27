@@ -46,8 +46,6 @@ const matheus = {
 
 > 📦 407.8 kB Used in GitHub's Storage 
  > 
-> 🏆 379 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 51 Public Repositories 
@@ -115,5 +113,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2024 00:57:30 UTC
+ Last Updated on 27/05/2024 00:54:48 UTC
 <!--END_SECTION:waka-->

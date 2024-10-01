@@ -1,7 +1,7 @@
 <h2> Hi, I'm <a href="https://matheusjulidori.github.io" target="_blank">Matheus Julidori!</a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230" height="auto">
-<p><em>Studying Software Enginner at <a href="http://www.inatel.br" target="_blank">INATEL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-  Fullstack Web Developer | Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Graduated in Software Engineering from <a href="http://www.inatel.br" target="_blank">INATEL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+  Fullstack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: MatheusJulidori](https://img.shields.io/badge/-MatheusJulidori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MatheusJulidori/)](https://www.linkedin.com/in/MatheusJulidori/)
@@ -13,23 +13,19 @@
 ```javascript
 const matheus = {
   pronouns: "He" | "Him",
-  code: [Javascript, Dart, HTML, CSS, Python, Java, C++],
+  code: [Javascript, TypeScript, NodeJS, Express, NestJS, React, MySQL, MongoDB, HTML, CSS, Python, Django, PostgreSQL],
   askMeAbout: ["web dev", "tech", "app dev", "games"],
   technologies: {
         backEnd: {
             js\ts: ["Node", "Express", "NestJS"]
         },
         frontEnd: {
-            techs: ["React", "VueJS"]
+            techs: ["React"]
         },
-        mobile: {
-            frameworks: ["Flutter"]
-        },
-        databases: ["MySql", "MongoDB","PostgreSQL","MariaDB"],
+        databases: ["MySql", "MongoDB", "PostgreSQL"],
    },
    currentFocus: {
         web: "Fullstack"
-        mobile: "Flutter"
    }
 }
 ```

@@ -1,6 +1,7 @@
 <h2> Hi, I'm <a href="https://matheusjulidori.github.io" target="_blank">Matheus Julidori!</a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h3><a href="https://julidori.dev/">Julidori.dev</a></h3>
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230" height="auto">
-<p><em>Graduated in Software Engineering from <a href="http://www.inatel.br" target="_blank">INATEL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Degree in Software Engineering from <a href="http://www.inatel.br" target="_blank">INATEL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
   Fullstack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 

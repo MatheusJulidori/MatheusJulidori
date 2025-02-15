@@ -33,7 +33,7 @@ const matheus = {
 <h2>My stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,19 +78,16 @@ Sunday                   208 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   28 mins             ███████████████████████░░   93.62 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-offerin_api              30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,5 +103,5 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 01:05:42 UTC
+ Last Updated on 15/02/2025 01:04:43 UTC
 <!--END_SECTION:waka-->

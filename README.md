@@ -40,14 +40,6 @@ const matheus = {
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=matheusjulidori&theme=dracula" alt="GitHub activity graph">
-</p>
-
----
-
 ## 🔭 Highlight Projects
 
 * 🎓 [**UniJobs**](https://github.com/UniJobs-Inatel/UniJobs) – White-label platform to connect students, universities and companies

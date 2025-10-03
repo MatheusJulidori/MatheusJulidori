@@ -7,7 +7,7 @@
 ---
 
 🎓 **Software Engineer** graduated from [INATEL](https://inatel.br)  
-💻 Fullstack Developer focused on **TypeScript, React & NestJS**  
+💻 Software Engineer focused on **Backend Architecture**
 📍 Based in Brazil | 🌐 Open to remote opportunities  
 📫 Reach me at [julidori.dev](https://julidori.dev)
 
@@ -20,12 +20,32 @@ const matheus = {
   pronouns: ["he", "him"],
   stack: {
     frontend: ["React", "TailwindCSS"],
-    backend: ["Node.js", "NestJS", "Express", "REST", "WebSocket", "GraphQL"],
+    backend: ["Node.js", "NestJS", "Express", "TypeScript", "TypeORM"],
     databases: ["PostgreSQL", "MongoDB", "MySQL"],
   },
-  tools: ["Docker", "Git", "TypeORM", "AWS"],
-  interests: ["web dev", "tech", "apps", "mentoring"],
-  currentFocus: "Web Fullstack TypeScript",
+  tools: [
+    "Docker",
+    "Docker Compose (Local Orchestration)",
+    "Git",
+    "RabbitMQ (Messaging Broker)",
+    "Grafana (Observability Dashboard)",
+    "Prometheus (Monitoring System)",
+    "Nginx (Reverse Proxy/Load Balancer)",
+    "Swagger (Documentation)",
+    "AWS"
+  ],
+  architecture: {
+    coreSkills: ["Designing for Scalability", "API Design (REST, GraphQL, gRPC)", "Data Consistency (CAP)"],
+    patterns: ["Microservices", "Event-Driven Architecture (EDA)", "**Domain-Driven Design (DDD) Principles**"],
+    cloud: ["AWS (Solutions Architect Focus)"],
+  },
+  currentFocus: "Backend Architecture & Distributed Systems",
+  currentStudyFocus: {
+    phase: "Senior Backend Mastery",
+    topics: ["DDD Applied", "Advanced SOLID/Clean Architecture", "Distributed Messaging (Kafka/RabbitMQ)", "Observability (Prometheus/Grafana)"],
+    nextCertifications: ["AWS Certified Solutions Architect – Associate"],
+  },
+  interests: ["web dev", "tech", "apps", "mentoring", "architectural trade-offs"],
 };
 ````
 
@@ -43,7 +63,7 @@ const matheus = {
 ## 🔭 Highlight Projects
 
 * 🎓 [**UniJobs**](https://github.com/UniJobs-Inatel/UniJobs) – White-label platform to connect students, universities and companies
-* 🌱 [**ts-logger-lib**](https://github.com/matheusjulidori/ts-logger-lib) – Lightweight and extensible logger for TypeScript projects
+* 🌱 [**Unified Notification Microservice API**](https://github.com/MatheusJulidori/notification_system) – Robust and scalable API to handle and process notifications asynchronously. 
 
 ---
 

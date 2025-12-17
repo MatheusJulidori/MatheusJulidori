@@ -7,7 +7,7 @@
 ---
 
 🎓 **Software Engineer** graduated from [INATEL](https://inatel.br)  
-💻 Software Engineer focused on **Backend Architecture**
+💻 Backend Software Engineer focused on **Distributed Systems & Architecture**
 📍 Based in Brazil | 🌐 Open to remote opportunities  
 📫 Reach me at [julidori.dev](https://julidori.dev)
 
@@ -17,53 +17,84 @@
 
 ```ts
 const matheus = {
-  pronouns: ["he", "him"],
-  stack: {
-    frontend: ["React", "TailwindCSS"],
-    backend: ["Node.js", "NestJS", "Express", "TypeScript", "TypeORM"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL"],
+  role: "Backend Software Engineer",
+  focus: ["Backend Architecture", "Distributed Systems", "Cloud Infrastructure"],
+
+  backend: {
+    languages: ["TypeScript", "JavaScript"],
+    frameworks: ["Node.js", "NestJS", "Express"],
+    api: ["REST"],
   },
-  tools: [
-    "Docker",
-    "Docker Compose (Local Orchestration)",
-    "Git",
-    "RabbitMQ (Messaging Broker)",
-    "Grafana (Observability Dashboard)",
-    "Prometheus (Monitoring System)",
-    "Nginx (Reverse Proxy/Load Balancer)",
-    "Swagger (Documentation)",
-    "AWS"
+
+  data: {
+    relational: ["PostgreSQL", "MySQL"],
+    nosql: ["MongoDB"],
+    messaging: ["RabbitMQ", "Kafka"],
+    caching: ["Redis"],
+  },
+
+  architecture: [
+    "Microservices",
+    "Event-Driven Architecture",
+    "Domain-Driven Design",
+    "CQRS",
+    "Clean Architecture",
   ],
-  architecture: {
-    coreSkills: ["Designing for Scalability", "API Design (REST, GraphQL, gRPC)", "Data Consistency (CAP)"],
-    patterns: ["Microservices", "Event-Driven Architecture (EDA)", "**Domain-Driven Design (DDD) Principles**"],
-    cloud: ["AWS (Solutions Architect Focus)"],
-  },
-  currentFocus: "Backend Architecture & Distributed Systems",
-  currentStudyFocus: {
-    phase: "Senior Backend Mastery",
-    topics: ["DDD Applied", "Advanced SOLID/Clean Architecture", "Distributed Messaging (Kafka/RabbitMQ)", "Observability (Prometheus/Grafana)"],
-    nextCertifications: ["AWS Certified Solutions Architect – Associate"],
-  },
-  interests: ["web dev", "tech", "apps", "mentoring", "architectural trade-offs"],
+
+  infrastructure: [
+    "AWS (ECS, S3, RDS, IAM, CloudWatch)",
+    "Docker",
+    "Nginx",
+    "CI/CD",
+    "Observability (Prometheus, Grafana)",
+  ],
+
+  mindset: [
+    "Performance over abstraction",
+    "Explicit trade-offs",
+    "Operational simplicity",
+    "Production-first design",
+  ],
 };
 ````
-
 ---
 
-## 🚀 GitHub Stats
+## 🧱 What I Build
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matheusjulidori&show_icons=true&theme=radical" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=matheusjulidori&theme=radical" />
-</p>
+- High-performance backend APIs used in production
+- Event-driven systems with clear ownership and failure handling
+- Cloud-native services with observability from day one
+- Systems optimized for cost, reliability, and maintainability
+- Architectures that scale teams, not just traffic
+- Systems designed with explicit failure modes and correctness guarantees
+---
+
+## 🧭 Engineering Principles
+
+- Correctness before scale
+- Observability before optimization
+- Explicit trade-offs over hidden magic
+- Simplicity over premature abstraction
 
 ---
 
 ## 🔭 Highlight Projects
 
-* 🎓 [**UniJobs**](https://github.com/UniJobs-Inatel/UniJobs) – White-label platform to connect students, universities and companies
-* 🌱 [**Unified Notification Microservice API**](https://github.com/MatheusJulidori/notification_system) – Robust and scalable API to handle and process notifications asynchronously. 
+ ### 📦 [Stock Management Service](https://github.com/MatheusJulidori/stock-management-service)
+Backend system focused on concurrency, consistency, and observability.
+- Models real-world race conditions and replica lag scenarios
+- PostgreSQL primary/replica with read/write routing
+- Row-level locking and deadlock handling
+- Kafka + RabbitMQ for different messaging semantics
+- Full OpenTelemetry-based observability stack
+
+### 🔔 [Unified Notification Microservice](https://github.com/MatheusJulidori/notification_system)
+Asynchronous notification service designed for reliability.
+- Separates ingestion from delivery to prevent cascading failures
+- Queue-based processing
+- Retry and DLQ strategies
+- Horizontal scaling via Docker + Nginx
+- Metrics, logs, and health checks built-in
 
 ---
 

@@ -7,8 +7,8 @@
 ---
 
 🎓 **Software Engineer** graduated from [INATEL](https://inatel.br)  
-💻 Backend Software Engineer focused on **Distributed Systems & Architecture**
-📍 Based in Brazil
+💻 Backend Software Engineer focused on **Distributed Systems & Architecture** <br/>
+📍 Based in Brazil <br/>
 📫 Reach me at [julidori.dev](https://julidori.dev)
 
 ---

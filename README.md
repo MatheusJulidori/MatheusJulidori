@@ -8,7 +8,7 @@
 
 🎓 **Software Engineer** graduated from [INATEL](https://inatel.br)  
 💻 Backend Software Engineer focused on **Distributed Systems & Architecture**
-📍 Based in Brazil | 🌐 Open to remote opportunities  
+📍 Based in Brazil
 📫 Reach me at [julidori.dev](https://julidori.dev)
 
 ---
@@ -23,7 +23,7 @@ const matheus = {
   backend: {
     languages: ["TypeScript", "JavaScript"],
     frameworks: ["Node.js", "NestJS", "Express"],
-    api: ["REST"],
+    api: ["REST", "GraphQL", "gRPC"],
   },
 
   data: {
@@ -46,7 +46,7 @@ const matheus = {
     "Docker",
     "Nginx",
     "CI/CD",
-    "Observability (Prometheus, Grafana)",
+    "Observability (Prometheus, Grafana, Datadog)",
   ],
 
   mindset: [
